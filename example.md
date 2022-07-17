@@ -5,7 +5,7 @@ The names of new documents should follow the following clear rules"
 ---
 layout: articles
 title: your article name
-tags:
+tags:a,b
 key: same to titles
 show_date: true
 pageview: true
