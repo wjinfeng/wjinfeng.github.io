@@ -12,3 +12,9 @@ pageview: true
 mathjax: true
 ---
 ```
+
+- tags:
+  - leetcode
+  - competition
+  - newTech
+  - paperRead
