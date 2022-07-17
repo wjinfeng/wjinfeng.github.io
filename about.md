@@ -9,7 +9,6 @@ titles:
 key: page-about
 ---
 
-# About me
 A few keywords about my current state
 - Oral English learners
 - Rookie in the workplace
